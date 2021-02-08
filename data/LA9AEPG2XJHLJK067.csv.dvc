@@ -1,4 +1,11 @@
 outs:
-- md5: 9dc5a15ef8c7bf176d7a1a62d14fdaa1
-  size: 4072130
+- md5: 14ebf67f41a104df224e8d28183c307e
+  size: 4035636
   path: LA9AEPG2XJHLJK067.csv
+md5: a3015f08784acf75aa7c484605629f0a
+frozen: true
+deps:
+- path: LA9AEPG2XJHLJK067.csv
+  repo:
+    url: https://github.com/Max-yuki/data-register/
+    rev_lock: a3992fe15b476bc515fac4ccbf8a604efafa018b
